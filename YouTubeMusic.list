@@ -1,7 +1,7 @@
 # > YouTubeMusic
 #[policy]
 #策略组
-;staic=YouTubeMusic, direct, proxy, img-url=https://raw.githubusercontent.com/tengyuankoo/qx/main/YouTubeMusic.png
+;staic=YouTubeMusic, direct, proxy, img-url=https://raw.githubusercontent.com/tengyuankoo/qx/main/YouTube_Music.png
 
 USER-AGENT,com.google.ios.youtubemusic*,YoutubeMusic
 USER-AGENT,YouTubeMusic*,YoutubeMusic
