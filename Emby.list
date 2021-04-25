@@ -52,7 +52,7 @@ DOMAIN,aws.jmsooo.com
 DOMAIN,ntt1.jmsooo.com
 DOMAIN,hinet.jmsooo.com
 DOMAIN,cf1.jmsooo.com
-IP,51.15.12.229
+IP-CIDR,51.15.12.229/8096
 
 # > 流媒体pornemby服务器
 DOMAIN,aga.pornemby.club
